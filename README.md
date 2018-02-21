@@ -15,7 +15,4 @@ Rabbits die at the age of 8 years (96 months).
 INPUT: (Number of Initial Males) (Number of Initial Females) (Total needed to surpass humans)
 
 Output:
-Total Final Pop:
-Total time taken
-Total dead rabbits
-Total Males & Females
+Total Final Pop, Total time taken, Total dead rabbits, Total Males & Females
